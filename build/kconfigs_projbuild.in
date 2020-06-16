@@ -1,5 +1,5 @@
 source "/home/artj/esp/esp-idf/components/app_update/Kconfig.projbuild"
 source "/home/artj/esp/esp-idf/components/bootloader/Kconfig.projbuild"
 source "/home/artj/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "/home/artj/esp/myproject/ESP32_Device_Lib/main/Kconfig.projbuild"
+source "/home/artj/esp/myproject/ESP32_LIB/main/Kconfig.projbuild"
 source "/home/artj/esp/esp-idf/components/partition_table/Kconfig.projbuild"

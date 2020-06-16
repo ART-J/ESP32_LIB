@@ -1,7 +1,7 @@
 src/hal/ledc_hal.o: \
  /home/artj/esp/esp-idf/components/soc/src/hal/ledc_hal.c \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/ledc_hal.h \
  /home/artj/esp/esp-idf/components/soc/src/esp32/include/hal/ledc_ll.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/ledc_types.h \
@@ -15,7 +15,7 @@ src/hal/ledc_hal.o: \
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/soc/include/hal/ledc_hal.h:
 

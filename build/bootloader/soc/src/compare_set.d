@@ -21,7 +21,7 @@ src/compare_set.o: \
  /home/artj/esp/esp-idf/components/soc/include/soc/soc_memory_layout.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_assert.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/artj/esp/esp-idf/components/xtensa/include/xtensa/xtruntime.h \
  /home/artj/esp/esp-idf/components/xtensa/include/xtensa/xtruntime-core-state.h \
@@ -70,7 +70,7 @@ src/compare_set.o: \
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_assert.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

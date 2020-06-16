@@ -1,6 +1,6 @@
 pm_trace.o: /home/artj/esp/esp-idf/components/esp32/pm_trace.c \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_private/pm_trace.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/driver/include/driver/gpio.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
@@ -32,7 +32,7 @@ pm_trace.o: /home/artj/esp/esp-idf/components/esp32/pm_trace.c \
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_private/pm_trace.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/driver/include/driver/gpio.h:
 

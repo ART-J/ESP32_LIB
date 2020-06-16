@@ -2,7 +2,7 @@ port/portevent_m.o: \
  /home/artj/esp/esp-idf/components/freemodbus/port/portevent_m.c \
  /home/artj/esp/esp-idf/components/freemodbus/modbus/include/mb_m.h \
  /home/artj/esp/esp-idf/components/freemodbus/modbus/include/mbconfig.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/freemodbus/port/port.h \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
@@ -83,7 +83,7 @@ port/portevent_m.o: \
 
 /home/artj/esp/esp-idf/components/freemodbus/modbus/include/mbconfig.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/freemodbus/port/port.h:
 

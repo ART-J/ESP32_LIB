@@ -1,7 +1,7 @@
 src/esp32/rtc_clk.o: \
  /home/artj/esp/esp-idf/components/soc/src/esp32/rtc_clk.c \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/rtc.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
@@ -59,7 +59,7 @@ src/esp32/rtc_clk.o: \
 
 /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/rtc.h:
 

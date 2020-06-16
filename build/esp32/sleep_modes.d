@@ -1,6 +1,6 @@
 sleep_modes.o: /home/artj/esp/esp-idf/components/esp32/sleep_modes.c \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp32/include/esp_sleep.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
@@ -115,7 +115,7 @@ sleep_modes.o: /home/artj/esp/esp-idf/components/esp32/sleep_modes.c \
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp32/include/esp_sleep.h:
 

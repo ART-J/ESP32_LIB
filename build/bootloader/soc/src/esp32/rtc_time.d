@@ -1,7 +1,7 @@
 src/esp32/rtc_time.o: \
  /home/artj/esp/esp-idf/components/soc/src/esp32/rtc_time.c \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_assert.h \
@@ -25,7 +25,7 @@ src/esp32/rtc_time.o: \
 
 /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc.h:
 

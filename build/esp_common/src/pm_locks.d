@@ -3,7 +3,7 @@ src/pm_locks.o: \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_pm.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/artj/esp/esp-idf/components/esp32/include/esp32/pm.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc.h \
@@ -67,7 +67,7 @@ src/pm_locks.o: \
 
 /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

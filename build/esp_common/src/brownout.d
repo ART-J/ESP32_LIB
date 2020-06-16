@@ -1,6 +1,6 @@
 src/brownout.o: \
  /home/artj/esp/esp-idf/components/esp_common/src/brownout.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log_internal.h \
@@ -65,7 +65,7 @@ src/brownout.o: \
  /home/artj/esp/esp-idf/components/freertos/xtensa/include/freertos/portbenchmark.h \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/mpu_wrappers.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/log/include/esp_log.h:
 

@@ -1,5 +1,5 @@
 spi_common.o: /home/artj/esp/esp-idf/components/driver/spi_common.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/driver/include/driver/spi_master.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
@@ -80,7 +80,7 @@ spi_common.o: /home/artj/esp/esp-idf/components/driver/spi_common.c \
  /home/artj/esp/esp-idf/components/soc/src/esp32/include/hal/spi_ll.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/hal_defs.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/driver/include/driver/spi_master.h:
 

@@ -1,6 +1,6 @@
 src/bootloader_flash_config_esp32.o: \
  /home/artj/esp/esp-idf/components/bootloader_support/src/bootloader_flash_config_esp32.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
@@ -28,7 +28,7 @@ src/bootloader_flash_config_esp32.o: \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_types.h \
  /home/artj/esp/esp-idf/components/bootloader_support/include/esp_app_format.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h:
 

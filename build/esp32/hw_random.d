@@ -1,6 +1,6 @@
 hw_random.o: /home/artj/esp/esp-idf/components/esp32/hw_random.c \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp32/include/esp32/clk.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/wdev_reg.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
@@ -24,7 +24,7 @@ hw_random.o: /home/artj/esp/esp-idf/components/esp32/hw_random.c \
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp32/include/esp32/clk.h:
 

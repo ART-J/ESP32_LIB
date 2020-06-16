@@ -1,6 +1,6 @@
 src/cpu_util.o: /home/artj/esp/esp-idf/components/soc/src/cpu_util.c \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/soc/include/soc/cpu.h \
  /home/artj/esp/esp-idf/components/xtensa/include/xtensa/corebits.h \
  /home/artj/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
@@ -37,7 +37,7 @@ src/cpu_util.o: /home/artj/esp/esp-idf/components/soc/src/cpu_util.c \
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/soc/include/soc/cpu.h:
 

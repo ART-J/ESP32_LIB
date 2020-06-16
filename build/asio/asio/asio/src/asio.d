@@ -3,7 +3,7 @@ asio/asio/src/asio.o: \
  /home/artj/esp/esp-idf/components/asio/asio/asio/include/asio/impl/src.hpp \
  /home/artj/esp/esp-idf/components/asio/asio/asio/include/asio/detail/config.hpp \
  /home/artj/esp/esp-idf/components/asio/port/include/esp_asio_config.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp \
  /home/artj/esp/esp-idf/components/asio/asio/asio/include/asio/error.hpp \
  /home/artj/esp/esp-idf/components/asio/asio/asio/include/asio/error_code.hpp \
@@ -315,7 +315,7 @@ asio/asio/src/asio.o: \
 
 /home/artj/esp/esp-idf/components/asio/port/include/esp_asio_config.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp:
 

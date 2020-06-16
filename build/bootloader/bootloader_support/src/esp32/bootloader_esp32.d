@@ -1,6 +1,6 @@
 src/esp32/bootloader_esp32.o: \
  /home/artj/esp/esp-idf/components/bootloader_support/src/esp32/bootloader_esp32.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
@@ -75,7 +75,7 @@ src/esp32/bootloader_esp32.o: \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/uart_struct.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/uart_caps.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

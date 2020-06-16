@@ -10,7 +10,7 @@ src/hal/sdio_slave_hal.o: \
  /home/artj/esp/esp-idf/components/soc/include/hal/sdio_slave_hal.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/soc/include/soc/lldesc.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/lldesc.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/sdio_slave_ll.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/slc_reg.h \
@@ -42,7 +42,7 @@ src/hal/sdio_slave_hal.o: \
 
 /home/artj/esp/esp-idf/components/soc/include/soc/lldesc.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/lldesc.h:
 

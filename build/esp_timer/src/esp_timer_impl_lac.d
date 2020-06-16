@@ -3,7 +3,7 @@ src/esp_timer_impl_lac.o: \
  /home/artj/esp/esp-idf/components/esp_timer/private_include/esp_timer_impl.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/artj/esp/esp-idf/components/esp32/include/esp_intr_alloc.h \
  /home/artj/esp/esp-idf/components/freertos/xtensa/include/freertos/xtensa_api.h \
@@ -74,7 +74,7 @@ src/esp_timer_impl_lac.o: \
 
 /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

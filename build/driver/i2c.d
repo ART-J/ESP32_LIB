@@ -1,7 +1,7 @@
 i2c.o: /home/artj/esp/esp-idf/components/driver/i2c.c \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_types.h \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp32/include/esp_intr_alloc.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
@@ -96,7 +96,7 @@ i2c.o: /home/artj/esp/esp-idf/components/driver/i2c.c \
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp32/include/esp_intr_alloc.h:
 

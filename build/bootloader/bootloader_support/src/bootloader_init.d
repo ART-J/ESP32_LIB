@@ -1,6 +1,6 @@
 src/bootloader_init.o: \
  /home/artj/esp/esp-idf/components/bootloader_support/src/bootloader_init.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log_internal.h \
@@ -58,7 +58,7 @@ src/bootloader_init.o: \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/gpio_caps.h \
  /home/artj/esp/esp-idf/components/soc/include/soc/rtc_wdt.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/log/include/esp_log.h:
 

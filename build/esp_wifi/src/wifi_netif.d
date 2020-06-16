@@ -3,7 +3,7 @@ src/wifi_netif.o: \
  /home/artj/esp/esp-idf/components/esp_wifi/include/esp_wifi.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/artj/esp/esp-idf/components/esp_wifi/include/esp_wifi_types.h \
  /home/artj/esp/esp-idf/components/esp_wifi/include/esp_private/esp_wifi_types_private.h \
@@ -122,7 +122,7 @@ src/wifi_netif.o: \
 
 /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

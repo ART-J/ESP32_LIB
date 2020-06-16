@@ -1,5 +1,5 @@
 tasks.o: /home/artj/esp/esp-idf/components/freertos/tasks.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/esp_newlib.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -56,7 +56,7 @@ tasks.o: /home/artj/esp/esp-idf/components/freertos/tasks.c \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/semphr.h \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/queue.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/newlib/platform_include/esp_newlib.h:
 

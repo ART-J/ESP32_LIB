@@ -1,5 +1,5 @@
 spi_slave.o: /home/artj/esp/esp-idf/components/driver/spi_slave.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/soc/src/esp32/include/hal/spi_ll.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/hal_defs.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
@@ -90,7 +90,7 @@ spi_slave.o: /home/artj/esp/esp-idf/components/driver/spi_slave.c \
  /home/artj/esp/esp-idf/components/soc/include/hal/gpio_types.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/gpio.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/soc/src/esp32/include/hal/spi_ll.h:
 

@@ -17,7 +17,7 @@ src/hal/gpio_hal.o: \
  /home/artj/esp/esp-idf/components/soc/include/hal/gpio_types.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/gpio.h \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h
 
 /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h:
 
@@ -53,5 +53,5 @@ src/hal/gpio_hal.o: \
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 /home/artj/esp/esp-idf/components/soc/src/hal/gpio_hal.c:

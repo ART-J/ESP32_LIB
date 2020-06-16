@@ -1,6 +1,6 @@
 src/mac_addr.o: \
  /home/artj/esp/esp-idf/components/esp_common/src/mac_addr.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_system.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
@@ -16,7 +16,7 @@ src/mac_addr.o: \
  /home/artj/esp/esp-idf/components/efuse/esp32/include/esp_efuse_table.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/efuse.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_system.h:
 

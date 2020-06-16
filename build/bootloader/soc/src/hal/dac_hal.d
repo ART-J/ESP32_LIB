@@ -22,7 +22,7 @@ src/hal/dac_hal.o: \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/dac_channel.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/dac_caps.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/dac_types.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/hal_defs.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
@@ -73,7 +73,7 @@ src/hal/dac_hal.o: \
 
 /home/artj/esp/esp-idf/components/soc/include/hal/dac_types.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/soc/include/hal/hal_defs.h:
 

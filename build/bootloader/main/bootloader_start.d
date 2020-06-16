@@ -1,7 +1,7 @@
 bootloader_start.o: \
  /home/artj/esp/esp-idf/components/bootloader/subproject/main/bootloader_start.c \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/artj/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_init.h \
@@ -23,7 +23,7 @@ bootloader_start.o: \
 
 /home/artj/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

@@ -1,7 +1,7 @@
 src/hal/timer_hal.o: \
  /home/artj/esp/esp-idf/components/soc/src/hal/timer_hal.c \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/timer_hal.h \
  /home/artj/esp/esp-idf/components/soc/src/esp32/include/hal/timer_ll.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/timer_types.h \
@@ -15,7 +15,7 @@ src/hal/timer_hal.o: \
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/soc/include/hal/timer_hal.h:
 

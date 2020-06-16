@@ -1,5 +1,5 @@
 dport_access.o: /home/artj/esp/esp-idf/components/esp32/dport_access.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
@@ -72,7 +72,7 @@ dport_access.o: /home/artj/esp/esp-idf/components/esp32/dport_access.c \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/queue.h \
  /home/artj/esp/esp-idf/components/xtensa/include/xtensa/core-macros.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

@@ -1,6 +1,6 @@
 event_send.o: /home/artj/esp/esp-idf/components/esp_event/event_send.c \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/artj/esp/esp-idf/components/esp_event/include/esp_event.h \
@@ -107,7 +107,7 @@ event_send.o: /home/artj/esp/esp-idf/components/esp_event/event_send.c \
 
 /home/artj/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

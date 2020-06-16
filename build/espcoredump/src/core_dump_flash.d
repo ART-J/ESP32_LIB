@@ -3,7 +3,7 @@ src/core_dump_flash.o: \
  /home/artj/esp/esp-idf/components/spi_flash/include/esp_partition.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/artj/esp/esp-idf/components/spi_flash/include/esp_flash.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/spi_flash_types.h \
@@ -68,7 +68,7 @@ src/core_dump_flash.o: \
 
 /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

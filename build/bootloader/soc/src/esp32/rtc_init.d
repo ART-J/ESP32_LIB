@@ -17,7 +17,7 @@ src/esp32/rtc_init.o: \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/dport_reg.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/dport_access.h \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp32/include/esp32/dport_access.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/uart_reg.h \
  /home/artj/esp/esp-idf/components/xtensa/include/xtensa/xtruntime.h \
@@ -72,7 +72,7 @@ src/esp32/rtc_init.o: \
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp32/include/esp32/dport_access.h:
 

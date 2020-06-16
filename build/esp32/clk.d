@@ -1,6 +1,6 @@
 clk.o: /home/artj/esp/esp-idf/components/esp32/clk.c \
  /home/artj/esp/esp-idf/components/newlib/platform_include/sys/time.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
@@ -68,7 +68,7 @@ clk.o: /home/artj/esp/esp-idf/components/esp32/clk.c \
 
 /home/artj/esp/esp-idf/components/newlib/platform_include/sys/time.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

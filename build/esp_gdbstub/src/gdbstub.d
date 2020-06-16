@@ -13,7 +13,7 @@ src/gdbstub.o: \
  /home/artj/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
  /home/artj/esp/esp-idf/components/esp_gdbstub/esp32/gdbstub_target_config.h \
  /home/artj/esp/esp-idf/components/esp_gdbstub/private_include/esp_gdbstub_common.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h
 
 /home/artj/esp/esp-idf/components/esp_gdbstub/include/esp_gdbstub.h:
 
@@ -41,5 +41,5 @@ src/gdbstub.o: \
 
 /home/artj/esp/esp-idf/components/esp_gdbstub/private_include/esp_gdbstub_common.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 /home/artj/esp/esp-idf/components/esp_gdbstub/src/gdbstub.c:

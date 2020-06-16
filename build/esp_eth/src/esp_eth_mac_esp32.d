@@ -3,7 +3,7 @@ src/esp_eth_mac_esp32.o: \
  /home/artj/esp/esp-idf/components/driver/include/driver/periph_ctrl.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/periph_defs.h \
  /home/artj/esp/esp-idf/components/driver/include/driver/gpio.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
@@ -103,7 +103,7 @@ src/esp_eth_mac_esp32.o: \
 
 /home/artj/esp/esp-idf/components/driver/include/driver/gpio.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h:
 

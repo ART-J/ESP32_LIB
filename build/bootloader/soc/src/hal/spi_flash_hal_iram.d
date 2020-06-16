@@ -13,7 +13,7 @@ src/hal/spi_flash_hal_iram.o: \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/spi_struct.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/gpio_sig_map.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/spi_types.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/spi_flash_types.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_types.h \
@@ -52,7 +52,7 @@ src/hal/spi_flash_hal_iram.o: \
 
 /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/gpio_sig_map.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/soc/include/hal/spi_types.h:
 

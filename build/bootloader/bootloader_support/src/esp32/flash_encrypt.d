@@ -3,7 +3,7 @@ src/esp32/flash_encrypt.o: \
  /home/artj/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/artj/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_types.h \
@@ -55,7 +55,7 @@ src/esp32/flash_encrypt.o: \
 
 /home/artj/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/bootloader_support/include/esp_image_format.h:
 

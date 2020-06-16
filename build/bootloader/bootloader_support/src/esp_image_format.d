@@ -20,7 +20,7 @@ src/esp_image_format.o: \
  /home/artj/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_config.h \
  /home/artj/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_types.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_assert.h \
  /home/artj/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
@@ -86,7 +86,7 @@ src/esp_image_format.o: \
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_types.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h:
 

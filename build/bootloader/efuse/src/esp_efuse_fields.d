@@ -1,6 +1,6 @@
 src/esp_efuse_fields.o: \
  /home/artj/esp/esp-idf/components/efuse/src/esp_efuse_fields.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/efuse/include/esp_efuse.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
@@ -20,7 +20,7 @@ src/esp_efuse_fields.o: \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/apb_ctrl_reg.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/efuse.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/efuse/include/esp_efuse.h:
 

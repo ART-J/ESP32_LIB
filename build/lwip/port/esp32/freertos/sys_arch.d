@@ -7,7 +7,7 @@ port/esp32/freertos/sys_arch.o: \
  /home/artj/esp/esp-idf/components/lwip/port/esp32/include/arch/cc.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/errno.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/artj/esp/esp-idf/components/lwip/port/esp32/include/arch/sys_arch.h \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -91,7 +91,7 @@ port/esp32/freertos/sys_arch.o: \
 
 /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

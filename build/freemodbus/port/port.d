@@ -2,7 +2,7 @@ port/port.o: /home/artj/esp/esp-idf/components/freemodbus/port/port.c \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/artj/esp/esp-idf/components/freertos/xtensa/include/freertos/FreeRTOSConfig.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/freertos/xtensa/include/freertos/xtensa_config.h \
  /home/artj/esp/esp-idf/components/xtensa/include/xtensa/hal.h \
  /home/artj/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
@@ -56,7 +56,7 @@ port/port.o: /home/artj/esp/esp-idf/components/freemodbus/port/port.c \
 
 /home/artj/esp/esp-idf/components/freertos/xtensa/include/freertos/FreeRTOSConfig.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/freertos/xtensa/include/freertos/xtensa_config.h:
 

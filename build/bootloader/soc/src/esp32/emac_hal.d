@@ -1,6 +1,6 @@
 src/esp32/emac_hal.o: \
  /home/artj/esp/esp-idf/components/soc/src/esp32/emac_hal.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/artj/esp/esp-idf/components/soc/soc/include/soc/gpio_periph.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/io_mux_reg.h \
@@ -27,7 +27,7 @@ src/esp32/emac_hal.o: \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/emac_mac_struct.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/emac_ext_struct.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

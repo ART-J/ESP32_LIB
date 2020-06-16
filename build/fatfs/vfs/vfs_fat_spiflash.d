@@ -1,7 +1,7 @@
 vfs/vfs_fat_spiflash.o: \
  /home/artj/esp/esp-idf/components/fatfs/vfs/vfs_fat_spiflash.c \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/artj/esp/esp-idf/components/vfs/include/esp_vfs.h \
@@ -96,7 +96,7 @@ vfs/vfs_fat_spiflash.o: \
 
 /home/artj/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

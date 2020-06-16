@@ -3,7 +3,7 @@ src/bootloader_flash.o: \
  /home/artj/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log.h \
  /home/artj/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/artj/esp/esp-idf/components/log/include/esp_log_internal.h \
@@ -38,7 +38,7 @@ src/bootloader_flash.o: \
 
 /home/artj/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/log/include/esp_log.h:
 

@@ -14,7 +14,7 @@ src/hal/touch_sensor_hal.o: \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/sens_struct.h \
  /home/artj/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc_io_struct.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/touch_sensor_types.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/soc/include/hal/touch_sensor_hal.h
 
 /home/artj/esp/esp-idf/components/soc/src/esp32/include/hal/touch_sensor_hal.h:
@@ -45,7 +45,7 @@ src/hal/touch_sensor_hal.o: \
 
 /home/artj/esp/esp-idf/components/soc/include/hal/touch_sensor_types.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader/../include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/bootloader/../include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/soc/include/hal/touch_sensor_hal.h:
 /home/artj/esp/esp-idf/components/soc/src/hal/touch_sensor_hal.c:

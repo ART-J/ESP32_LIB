@@ -1,6 +1,6 @@
 cpu_start.o: /home/artj/esp/esp-idf/components/esp32/cpu_start.c \
  /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/artj/esp/esp-idf/components/newlib/platform_include/assert.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
@@ -144,7 +144,7 @@ cpu_start.o: /home/artj/esp/esp-idf/components/esp32/cpu_start.c \
 
 /home/artj/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/esp_common/include/esp_err.h:
 

@@ -2,7 +2,7 @@ port/freertos/ffsystem.o: \
  /home/artj/esp/esp-idf/components/fatfs/port/freertos/ffsystem.c \
  /home/artj/esp/esp-idf/components/fatfs/src/ff.h \
  /home/artj/esp/esp-idf/components/fatfs/src/ffconf.h \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/artj/esp/esp-idf/components/freertos/xtensa/include/freertos/FreeRTOSConfig.h \
@@ -55,7 +55,7 @@ port/freertos/ffsystem.o: \
 
 /home/artj/esp/esp-idf/components/fatfs/src/ffconf.h:
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

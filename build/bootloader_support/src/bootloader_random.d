@@ -1,6 +1,6 @@
 src/bootloader_random.o: \
  /home/artj/esp/esp-idf/components/bootloader_support/src/bootloader_random.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/bootloader_support/include/bootloader_random.h \
  /home/artj/esp/esp-idf/components/soc/include/soc/cpu.h \
  /home/artj/esp/esp-idf/components/xtensa/include/xtensa/corebits.h \
@@ -61,7 +61,7 @@ src/bootloader_random.o: \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_idf_version.h \
  /home/artj/esp/esp-idf/components/driver/include/driver/periph_ctrl.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/bootloader_support/include/bootloader_random.h:
 

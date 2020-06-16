@@ -1,5 +1,5 @@
 task_wdt.o: /home/artj/esp/esp-idf/components/esp32/task_wdt.c \
- /home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h \
+ /home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h \
  /home/artj/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/artj/esp/esp-idf/components/freertos/xtensa/include/freertos/FreeRTOSConfig.h \
@@ -69,7 +69,7 @@ task_wdt.o: /home/artj/esp/esp-idf/components/esp32/task_wdt.c \
  /home/artj/esp/esp-idf/components/esp_common/include/esp_private/system_internal.h \
  /home/artj/esp/esp-idf/components/soc/src/esp32/include/hal/timer_ll.h
 
-/home/artj/esp/myproject/ESP32_Device_Lib/build/include/sdkconfig.h:
+/home/artj/esp/myproject/ESP32_LIB/build/include/sdkconfig.h:
 
 /home/artj/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 
