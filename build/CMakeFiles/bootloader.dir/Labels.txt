@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/artj/esp/myproject/ESP32_Device_Lib/build/CMakeFiles/bootloader
+/home/artj/esp/myproject/ESP32_Device_Lib/build/CMakeFiles/bootloader.rule
+/home/artj/esp/myproject/ESP32_Device_Lib/build/CMakeFiles/bootloader-complete.rule
+/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/artj/esp/myproject/ESP32_Device_Lib/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

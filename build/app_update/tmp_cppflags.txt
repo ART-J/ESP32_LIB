@@ -1,0 +1,1 @@
+eca2215-dirty ESP32_Device_Lib v4.2-dev-701-g0ae960f2f

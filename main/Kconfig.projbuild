@@ -1,0 +1,33 @@
+menu "GUI Configuration"
+
+config SCREEN_PANEL_RST_PIN
+    int "Screen Panel RST Pin"
+    default 14
+    depends on ENABLE_GUI
+
+config SCREEN_PANEL_DC_PIN
+    int "Screen Panel DC Pin"
+    default 23
+    depends on ENABLE_GUI
+
+config SCREEN_PANEL_BL_PIN
+    int "Screen Panel BL Pin"
+    default 4
+    depends on ENABLE_GUI
+
+config SPI_SCLK_PIN
+    int "SPI SCLK Pin"
+    default 5
+    depends on ENABLE_GUI
+
+config SPI_MOSI_PIN
+    int "SPI MOSI Pin"
+    default 18
+    depends on ENABLE_GUI
+
+config SPI_CS_PIN
+    int "SPI CS Pin"
+    default 27
+    depends on ENABLE_GUI
+endmenu
+

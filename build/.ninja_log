@@ -1,0 +1,8 @@
+# ninja log v5
+7	22	0	project_elf_src.c	dfccd3a825c13af2
+8	40	0	esp-idf/esp32/esp32_out.ld	877d610db5460fb0
+42	368	0	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aesni.c.obj	5a9a45a441319412
+42	368	0	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/arc4.c.obj	7281af6923c9804e
+41	455	0	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aes.c.obj	4b667be636539055
+41	510	0	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_process.c.obj	a2f9f73737131332
+40	547	0	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_dev_attr.c.obj	cd66df6d870468da
